@@ -38,20 +38,4 @@
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 Company: CodeSight Global  
-- 🌍 Building scalable digital solutions  
-- 🤝 Open to collaborations, projects & partnerships  
-
----
-
-## ⚡ Current Focus
-
-- 🚀 Scaling CodeSight Global services  
-- 🛠 Building automation & SaaS tools  
-- 📦 Real-world business solutions (not just demos)
-
----
-
 ⭐ *“I build things that people actually use.”*
