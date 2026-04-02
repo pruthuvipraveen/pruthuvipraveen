@@ -38,4 +38,4 @@
 
 ---
 
-⭐ *“I build things that people actually use.”*
+⭐ *“I failed. Learned. Moved on.”*
