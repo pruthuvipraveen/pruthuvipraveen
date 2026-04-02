@@ -37,7 +37,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthuvipraveen&show_icons=true&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pruthuvipraveen&theme=transparent" />
 </p>
 
